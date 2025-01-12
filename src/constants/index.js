@@ -158,9 +158,9 @@ const experiences = [
     iconBg: "white",
     date: "March 2023 - Present",
     points: [
-      "Organized game dev and graphics workshops, with footfall of 150+ students.",
-      "Guided and mentored 5 juniors in game and web development helping them acquire skills and contribute to ongoing projects.",
-      "Built a 2D shooter game in Unity2D with code written in C# and assets made using Adobe Photoshop and Illustrator.",
+      "Organized and led game and web development workshops, with footfall of 150+ students,ensuring impactful learning outcomes.",
+      "Guided and mentored 6 juniors in Unity and backend development, fostering skill development, and integrating their contributions into live projects.",
+      "Spearheaded the development of a 2D shooter game in Unity2D, leading end-to-end implementation using C# with assets created using Adobe Photoshop and Illustrator.",
       "Held the position of Junior Developer previously and worked on Unity2D, Web Development, and Blender.",
     ],
   },
@@ -171,9 +171,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "May 2024 - July 2024",
     points: [
-      "Conducted a comprehensive analysis of trust in equity-and-donation-based crowdfunding across multiple platforms, including Crunchbase, AmbitionBox, Milaap, GoGetFunding, Ketto, and Kickstarter, analyzing data from over 800 campaigns",
-      "Reviewed over 85+ published research papers to understand existing trends, methodologies, and findings in the field of equity and donation based crowdfunding, synthesizing key insights for the project. ",
-      "Applied various machine learning models for data analysis and predictions, including Logistic Regression (74% accuracy in predicting successful crowdfunding campaigns based on trust-related factors), K-Means Clustering (segmented 5 distinct profiles from 3,000+ donors based on contribution patterns and trust indicators), Support Vector Machine (SVM) for classification tasks to enhance prediction accuracy.",
+      "Conducted a comprehensive analysis of how communication style impacts trust and success in equity- and donation-based crowdfunding across platforms such as Crunchbase, Milaap, GoGetFunding, Ketto, and Kickstarter, leveraging data from over 800 campaigns to identify key patterns and insights.",
+      "Reviewed 85+ published research papers to explore the effects of communication style on campaign success, synthesizing critical insights to inform the project.",
+      "Applied machine learning models to analyse the relationship between communication style and campaign outcomes, achieving 74% accuracy with Logistic Regression in predicting successful campaigns.",
+      "Segmented 3,000+ donors into 5 distinct profiles using K-Means Clustering based on contribution patterns and trust indicators. Enhanced classification accuracy by employing Support Vector Machines to identify key communication factors driving campaign success.",
     ],
   },
   {
@@ -183,9 +184,8 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "November 2023 - December 2023",
     points: [
-      "Developed a web scraping tool using Selenium WebDriver to automate the daily collection of retail prices for essential commodities from the Department of Consumer Affairs. ",
-      "Processed and stored over 725 data entries daily in CSV and achieved 80% reduction in manual processing time by utilizing tools such as Glob and Xlwings.",
-      "Visualized price trends between present and historical data using libraries such as Matplotlib and Seaborn with various factors such as Oil prices, monsoon, etc. which led to changes in prices, contributing to strategic insights on commodity pricing patterns and future changes in prices.",
+      "Developed a web scraping tool using Selenium WebDriver to automate the daily collection of retail prices for essential commodities from the Department of Consumer Affairs. The tool processed and stored over 725 entries daily in CSV format over a period of 6 months, achieving an 80% reduction in manual processing time.",
+      "Leveraged Glob and Xlwings for data handling and automation. Visualized periodic price trends using Matplotlib and Seaborn due to multiple factors, enabling strategic insights into commodity pricing patterns.",
     ],
   },
   {
@@ -195,9 +195,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "November 2022 - October 2023",
     points: [
-      "Efficiently managed events and logistics for the 19th Annual Alumni Meet (AAM), with a footfall of 300+ alumni from the batches of 1973, 1983, and 1998. Coordinated MTRs, events, speeches, and timely transportation of alumni to different event venues.",
-      "Coordinated and worked on the designing of YearBook, Class Song, and Cosplay for the Batch of 2024.",
-      "Managed sponsorship activities for the 19th AAM, securing 21 sponsors, and boosting event resources and outreach.",
+      "Efficiently managed events and logistics for the 19th Annual Alumni Meet (AAM), with a footfall of 300+ alumni from the batches of 1973, 1983, and 1998and overseeing event logistics, transportation, and scheduling.",
+      "Coordinated, managed and worked on creative initiatives such as designing YearBook, Class Song, and Cosplay for Batch of 2024.",
+      "Secured 21 sponsorships, demonstrating strategic outreach and negotiation skills to boost event resources and expand reach.",
     ],
   },
   {
@@ -207,9 +207,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
-      "Carried out in-depth analysis of business models for 6 early-stage startups from Tier 2 and 3 cities, identifying key challenges and opportunities for growth.",
-      "Provided actionable recommendations to my team at InvestorBase, enabling them to guide startup founders in scaling operations based on data-driven insights.",
-      "Connected 50+ startup founders to potential investors including Angels and High Networth Individuals (HNI)",
+      "Conducted in-depth analyses of business models for six early-stage startups in the material science domain, identifying opportunities for innovation and refining product offerings",
+      "Collaborated with founders to transform operational challenges into actionable product development strategies, emphasizing scalability and market readiness.",
+      "Provided data-driven recommendations to enhance product features aligned with market demands, directly contributing to the startups' ability to scale efficiently.",
     ],
   },
 ];
